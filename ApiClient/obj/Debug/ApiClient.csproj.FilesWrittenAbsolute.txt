@@ -1,0 +1,5 @@
+/Users/nafujii/Projects/ApiClient/ApiClient/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/nafujii/Projects/ApiClient/ApiClient/bin/Debug/ApiClient.dll.mdb
+/Users/nafujii/Projects/ApiClient/ApiClient/bin/Debug/ApiClient.dll
+/Users/nafujii/Projects/ApiClient/ApiClient/obj/Debug/ApiClient.dll
+/Users/nafujii/Projects/ApiClient/ApiClient/obj/Debug/ApiClient.dll.mdb
